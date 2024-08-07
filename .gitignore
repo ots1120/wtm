@@ -1,0 +1,20 @@
+# Ignore vscode settings
+.vscode/settings.json
+
+# Ignore Gradle files
+.gradle/
+gradle/
+
+# Ignore Gradle wrapper files
+gradlew
+gradlew.bat
+
+# Ignore other Gradle-related files
+.gradle/8.8/*
+.gradle/8.9/*
+.gradle/file-system.probe
+.gradle/buildOutputCleanup/outputFiles.bin
+.gradle/buildOutputCleanup/buildOutputCleanup.lock
+
+# Ignore etc
+.DS_store
